@@ -1,0 +1,25 @@
+.section{
+    padding-bottom: 2rem;
+}
+
+.section__header{
+    padding: 4rem;
+    display: flex;
+    justify-content: center;
+    color: #eee;
+    font-size: 6rem;
+    align-items: center;
+    gap: 2rem;
+}
+
+.section__h2{
+    font-family: 'Rochester', cursive;
+    font-weight: 500;
+}
+
+.section__wrapper{
+    display: flex;
+    justify-content: center;
+    gap: 2rem;
+    flex-wrap: wrap;
+}

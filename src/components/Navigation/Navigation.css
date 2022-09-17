@@ -1,0 +1,17 @@
+.navigation{
+    width: 100%;
+    padding: 2rem;
+    background: rgba(73, 51, 35, 0.8);
+    position: fixed;
+}
+
+.navigation__logo{
+    font-size: 7rem;
+    color: #FFDF91;
+}
+
+@media screen and (max-width: 1000px ){
+    .navigation__logo{
+        font-size: 5rem;
+    }
+}
